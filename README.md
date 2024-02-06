@@ -28,6 +28,7 @@ we know that when we see our first endpoint all starting points inbetween will c
 inbetween the radian values of another chord. 
 
 Using this information we need to make a few functions:
+
     - PointID
         --- Time Complexity: (O(1))
         - we know we are going to identify the chord index many times so we make a function to find this value quickly.
