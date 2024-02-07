@@ -19,7 +19,7 @@ sums and use binary search but I could not completely figure out the solution.
 
 I finally realized that this is a sorting algorithm to find an endpoints corresponding startpoint once the algorithm realizes we have found an endpoint resulting in a nlon(n) solution.
 
-After testing with over 50000 chords the new nlog(n) method reduced computational time from 80s to 4s. At smaller chord amounts computation was similar.
+After testing with over 50000 chords the new nlog(n) method reduced computational time from 18s to 1.3s. At smaller chord amounts computation was similar.
 
 ------
 Design
